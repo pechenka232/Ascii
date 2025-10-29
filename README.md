@@ -18,7 +18,7 @@ Usage
 Run the app with:
 
 ```bash
-python gradient_ascii_converter.py
+python main.py
 ```
 
 Click Select File to choose an image.
