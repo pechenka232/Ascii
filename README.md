@@ -1,3 +1,4 @@
+![ASCII Converter](screenshot.png)
 Modern Gradient ASCII Art Converter
 
 This is a fun little project created at the request of my friend 😎. You just drop an image and it converts it into ASCII art.
