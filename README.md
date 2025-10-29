@@ -1,4 +1,4 @@
-![ASCII Converter](screenshot.png)
+
 Modern Gradient ASCII Art Converter
 
 This is a fun little project created at the request of my friend 😎. You just drop an image and it converts it into ASCII art.
@@ -6,6 +6,7 @@ This is a fun little project created at the request of my friend 😎. You just 
 Features
 Select an image file, set width, convert, and copy ASCII art to clipboard
 
+![ASCII Converter](screenshot.png)
 Installation
 
 1. Make sure you have Python 3 installed.
